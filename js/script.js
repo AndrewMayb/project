@@ -1,14 +1,13 @@
-'use strict'
+"use strict";
 
-console.log(4 + 4 + + '5')
+console.log(4 + 4 + +"5");
 let incr = 10,
-    decr = 10
+  decr = 10;
 
-
-// incr++ 
+// incr++
 // decr--
 
-console.log(++incr)
-console.log(--decr)
+console.log(++incr);
+console.log(--decr);
 
-console.log(2 * 4 == '9')
+console.log(2 * 4 == "9");
