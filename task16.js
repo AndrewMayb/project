@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 const { reject } = require('prelude-ls')
 const { resolve } = require('uri-js')
 
@@ -57,6 +58,8 @@ const someAsyncTaskPromise = function (message,callback){
 // console.log('after async task')
 // // console.log(x)
 =======
+=======
+>>>>>>> Stashed changes
 function likes(names) {
   switch (names.length) {
     case 0:
@@ -84,4 +87,7 @@ console.log(likes(['Peter']))
 console.log(likes(['Jacob', 'Alex']))
 console.log(likes(['Max', 'John', 'Mark']))
 console.log(likes(['Alex', 'Jacob', 'Mark', 'Max']))
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
